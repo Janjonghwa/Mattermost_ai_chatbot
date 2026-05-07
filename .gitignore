@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Data Files (Do not commit chat logs to protect privacy!)
+*.json
+*.txt
+!requirements.txt
+
+# OS
+.DS_Store
+Thumbs.db
